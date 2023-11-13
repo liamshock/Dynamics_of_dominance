@@ -1,0 +1,1848 @@
+
+------- Tracking FishTank20200127_143538 -------
+
+
+
+-- inputs --
+input_path: /media/liam/hd1/fighting_data/FishTank20200127_143538/FishTank20200127_143538_sLEAP_and_idtracks.h5
+expName: FishTank20200127_143538
+output_h5_path: /media/liam/hd1/fighting_data/tracking_results/FishTank20200127_143538_tracking_results.h5
+output_csv_path: /media/liam/hd1/fighting_data/csv_trajectories/FishTank20200127_143538.csv
+calibration_folder_path: ./20200120_calibration/
+parStep: 1000
+numProcessors: 38
+mean_reg_skel_thresh: 10.0
+head_pec_thresh: 1.2
+pec_tail_thresh: 2.5
+idtracks_to_sleap_thresh: 12.5
+interp_polyOrd: 1
+interp_limit: 5
+savgol_win: 9
+savgol_ord: 2
+dt: 0.01
+
+
+
+
+
+
+
+
+Launching cross-camera registration ...
+
+
+2465.157138824463
+Cross-camera registration completed
+
+
+
+Apply the registration threshold ...
+finished:  2467.8172965049744 s
+
+
+
+Apply the skeleton 3D size threshold ...
+finished:  2489.290390253067 s
+
+
+
+Hungarian matching of 3D skeletons with idTracker.ai identities ...
+finished:  2520.0132887363434 s
+
+
+
+Matching individual 3D skeletons with idTracker.ai identities ...
+finished:  2524.560546398163 s
+
+
+
+Track segments in time with 3D skeletons but without idtracker.ai matches ...
+finished:  2577.935604572296 s
+
+
+
+
+ post-procssing ...
+(971756, 2, 3, 3)
+post-proccessing finished
+
+saving ... 
+saved
+
+
+Finished post processing and saving h5 file
+
+
+saving csv file ...
+
+Finished!
+
+
+
+------------
+Completely finished!
+total time: t =   43.11959669192632  mins
+
+------- Tracking FishTank20200129_140656 -------
+
+
+
+-- inputs --
+input_path: /media/liam/hd1/fighting_data/FishTank20200129_140656/FishTank20200129_140656_sLEAP_and_idtracks.h5
+expName: FishTank20200129_140656
+output_h5_path: /media/liam/hd1/fighting_data/tracking_results/FishTank20200129_140656_tracking_results.h5
+output_csv_path: /media/liam/hd1/fighting_data/csv_trajectories/FishTank20200129_140656.csv
+calibration_folder_path: ./20200120_calibration/
+parStep: 1000
+numProcessors: 38
+mean_reg_skel_thresh: 10.0
+head_pec_thresh: 1.2
+pec_tail_thresh: 2.5
+idtracks_to_sleap_thresh: 12.5
+interp_polyOrd: 1
+interp_limit: 5
+savgol_win: 9
+savgol_ord: 2
+dt: 0.01
+
+
+
+
+
+
+
+
+Launching cross-camera registration ...
+
+
+2125.168863773346
+Cross-camera registration completed
+
+
+
+Apply the registration threshold ...
+finished:  2127.475827932358 s
+
+
+
+Apply the skeleton 3D size threshold ...
+finished:  2146.124730348587 s
+
+
+
+Hungarian matching of 3D skeletons with idTracker.ai identities ...
+finished:  2173.8497331142426 s
+
+
+
+Matching individual 3D skeletons with idTracker.ai identities ...
+finished:  2178.1456520557404 s
+
+
+
+Track segments in time with 3D skeletons but without idtracker.ai matches ...
+finished:  2222.070700407028 s
+
+
+
+
+ post-procssing ...
+(769848, 2, 3, 3)
+post-proccessing finished
+
+saving ... 
+saved
+
+
+Finished post processing and saving h5 file
+
+
+saving csv file ...
+
+Finished!
+
+
+
+------------
+Completely finished!
+total time: t =   37.15946698188782  mins
+
+------- Tracking FishTank20200130_153857 -------
+
+
+
+-- inputs --
+input_path: /media/liam/hd1/fighting_data/FishTank20200130_153857/FishTank20200130_153857_sLEAP_and_idtracks.h5
+expName: FishTank20200130_153857
+output_h5_path: /media/liam/hd1/fighting_data/tracking_results/FishTank20200130_153857_tracking_results.h5
+output_csv_path: /media/liam/hd1/fighting_data/csv_trajectories/FishTank20200130_153857.csv
+calibration_folder_path: ./20200120_calibration/
+parStep: 1000
+numProcessors: 38
+mean_reg_skel_thresh: 10.0
+head_pec_thresh: 1.2
+pec_tail_thresh: 2.5
+idtracks_to_sleap_thresh: 12.5
+interp_polyOrd: 1
+interp_limit: 5
+savgol_win: 9
+savgol_ord: 2
+dt: 0.01
+
+
+
+
+
+
+
+
+Launching cross-camera registration ...
+
+
+1414.0451130867004
+Cross-camera registration completed
+
+
+
+Apply the registration threshold ...
+finished:  1415.4511358737946 s
+
+
+
+Apply the skeleton 3D size threshold ...
+finished:  1427.1587617397308 s
+
+
+
+Hungarian matching of 3D skeletons with idTracker.ai identities ...
+finished:  1445.61088180542 s
+
+
+
+Matching individual 3D skeletons with idTracker.ai identities ...
+finished:  1447.1146123409271 s
+
+
+
+Track segments in time with 3D skeletons but without idtracker.ai matches ...
+finished:  1462.2088153362274 s
+
+
+
+
+ post-procssing ...
+(501943, 2, 3, 3)
+post-proccessing finished
+
+saving ... 
+saved
+
+
+Finished post processing and saving h5 file
+
+
+saving csv file ...
+
+Finished!
+
+
+
+------------
+Completely finished!
+total time: t =   24.43822088241577  mins
+
+------- Tracking FishTank20200130_181614 -------
+
+
+
+-- inputs --
+input_path: /media/liam/hd1/fighting_data/FishTank20200130_181614/FishTank20200130_181614_sLEAP_and_idtracks.h5
+expName: FishTank20200130_181614
+output_h5_path: /media/liam/hd1/fighting_data/tracking_results/FishTank20200130_181614_tracking_results.h5
+output_csv_path: /media/liam/hd1/fighting_data/csv_trajectories/FishTank20200130_181614.csv
+calibration_folder_path: ./20200120_calibration/
+parStep: 1000
+numProcessors: 38
+mean_reg_skel_thresh: 10.0
+head_pec_thresh: 1.2
+pec_tail_thresh: 2.5
+idtracks_to_sleap_thresh: 12.5
+interp_polyOrd: 1
+interp_limit: 5
+savgol_win: 9
+savgol_ord: 2
+dt: 0.01
+
+
+
+
+
+
+
+
+Launching cross-camera registration ...
+
+
+1426.4524388313293
+Cross-camera registration completed
+
+
+
+Apply the registration threshold ...
+finished:  1427.907241821289 s
+
+
+
+Apply the skeleton 3D size threshold ...
+finished:  1439.7179276943207 s
+
+
+
+Hungarian matching of 3D skeletons with idTracker.ai identities ...
+finished:  1459.0075888633728 s
+
+
+
+Matching individual 3D skeletons with idTracker.ai identities ...
+finished:  1460.3260390758514 s
+
+
+
+Track segments in time with 3D skeletons but without idtracker.ai matches ...
+finished:  1474.799345254898 s
+
+
+
+
+ post-procssing ...
+(517000, 2, 3, 3)
+post-proccessing finished
+
+saving ... 
+saved
+
+
+Finished post processing and saving h5 file
+
+
+saving csv file ...
+
+Finished!
+
+
+
+------------
+Completely finished!
+total time: t =   24.654200073083242  mins
+
+------- Tracking FishTank20200207_161445 -------
+
+
+
+-- inputs --
+input_path: /media/liam/hd1/fighting_data/FishTank20200207_161445/FishTank20200207_161445_sLEAP_and_idtracks.h5
+expName: FishTank20200207_161445
+output_h5_path: /media/liam/hd1/fighting_data/tracking_results/FishTank20200207_161445_tracking_results.h5
+output_csv_path: /media/liam/hd1/fighting_data/csv_trajectories/FishTank20200207_161445.csv
+calibration_folder_path: ./20200120_calibration/
+parStep: 1000
+numProcessors: 38
+mean_reg_skel_thresh: 10.0
+head_pec_thresh: 1.2
+pec_tail_thresh: 2.5
+idtracks_to_sleap_thresh: 12.5
+interp_polyOrd: 1
+interp_limit: 5
+savgol_win: 9
+savgol_ord: 2
+dt: 0.01
+
+
+
+
+
+
+
+
+Launching cross-camera registration ...
+
+
+1184.0077950954437
+Cross-camera registration completed
+
+
+
+Apply the registration threshold ...
+finished:  1185.5121641159058 s
+
+
+
+Apply the skeleton 3D size threshold ...
+finished:  1198.2345972061157 s
+
+
+
+Hungarian matching of 3D skeletons with idTracker.ai identities ...
+finished:  1218.0009996891022 s
+
+
+
+Matching individual 3D skeletons with idTracker.ai identities ...
+finished:  1220.4114797115326 s
+
+
+
+Track segments in time with 3D skeletons but without idtracker.ai matches ...
+finished:  1236.3976564407349 s
+
+
+
+
+ post-procssing ...
+(463997, 2, 3, 3)
+post-proccessing finished
+
+saving ... 
+saved
+
+
+Finished post processing and saving h5 file
+
+
+saving csv file ...
+
+Finished!
+
+
+
+------------
+Completely finished!
+total time: t =   20.672842780749004  mins
+
+------- Tracking FishTank20200213_154940 -------
+
+
+
+-- inputs --
+input_path: /media/liam/hd1/fighting_data/FishTank20200213_154940/FishTank20200213_154940_sLEAP_and_idtracks.h5
+expName: FishTank20200213_154940
+output_h5_path: /media/liam/hd1/fighting_data/tracking_results/FishTank20200213_154940_tracking_results.h5
+output_csv_path: /media/liam/hd1/fighting_data/csv_trajectories/FishTank20200213_154940.csv
+calibration_folder_path: ./20200120_calibration/
+parStep: 1000
+numProcessors: 38
+mean_reg_skel_thresh: 10.0
+head_pec_thresh: 1.2
+pec_tail_thresh: 2.5
+idtracks_to_sleap_thresh: 12.5
+interp_polyOrd: 1
+interp_limit: 5
+savgol_win: 9
+savgol_ord: 2
+dt: 0.01
+
+
+
+
+
+
+
+
+Launching cross-camera registration ...
+
+
+1860.4922909736633
+Cross-camera registration completed
+
+
+
+Apply the registration threshold ...
+finished:  1863.8069386482239 s
+
+
+
+Apply the skeleton 3D size threshold ...
+finished:  1881.5029981136322 s
+
+
+
+Hungarian matching of 3D skeletons with idTracker.ai identities ...
+finished:  1910.461485862732 s
+
+
+
+Matching individual 3D skeletons with idTracker.ai identities ...
+finished:  1913.5727951526642 s
+
+
+
+Track segments in time with 3D skeletons but without idtracker.ai matches ...
+finished:  1939.119479417801 s
+
+
+
+
+ post-procssing ...
+(730119, 2, 3, 3)
+post-proccessing finished
+
+saving ... 
+saved
+
+
+Finished post processing and saving h5 file
+
+
+saving csv file ...
+
+Finished!
+
+
+
+------------
+Completely finished!
+total time: t =   32.43508320252101  mins
+
+------- Tracking FishTank20200214_153519 -------
+
+
+
+-- inputs --
+input_path: /media/liam/hd1/fighting_data/FishTank20200214_153519/FishTank20200214_153519_sLEAP_and_idtracks.h5
+expName: FishTank20200214_153519
+output_h5_path: /media/liam/hd1/fighting_data/tracking_results/FishTank20200214_153519_tracking_results.h5
+output_csv_path: /media/liam/hd1/fighting_data/csv_trajectories/FishTank20200214_153519.csv
+calibration_folder_path: ./20200120_calibration/
+parStep: 1000
+numProcessors: 38
+mean_reg_skel_thresh: 10.0
+head_pec_thresh: 1.2
+pec_tail_thresh: 2.5
+idtracks_to_sleap_thresh: 12.5
+interp_polyOrd: 1
+interp_limit: 5
+savgol_win: 9
+savgol_ord: 2
+dt: 0.01
+
+
+
+
+
+
+
+
+Launching cross-camera registration ...
+
+
+1537.7031891345978
+Cross-camera registration completed
+
+
+
+Apply the registration threshold ...
+finished:  1539.9795925617218 s
+
+
+
+Apply the skeleton 3D size threshold ...
+finished:  1557.502088546753 s
+
+
+
+Hungarian matching of 3D skeletons with idTracker.ai identities ...
+finished:  1587.472843170166 s
+
+
+
+Matching individual 3D skeletons with idTracker.ai identities ...
+finished:  1588.5312459468842 s
+
+
+
+Track segments in time with 3D skeletons but without idtracker.ai matches ...
+finished:  1596.7156195640564 s
+
+
+
+
+ post-procssing ...
+(495610, 2, 3, 3)
+post-proccessing finished
+
+saving ... 
+saved
+
+
+Finished post processing and saving h5 file
+
+
+saving csv file ...
+
+Finished!
+
+
+
+------------
+Completely finished!
+total time: t =   26.683814990520478  mins
+
+------- Tracking FishTank20200217_160052 -------
+
+
+
+-- inputs --
+input_path: /media/liam/hd1/fighting_data/FishTank20200217_160052/FishTank20200217_160052_sLEAP_and_idtracks.h5
+expName: FishTank20200217_160052
+output_h5_path: /media/liam/hd1/fighting_data/tracking_results/FishTank20200217_160052_tracking_results.h5
+output_csv_path: /media/liam/hd1/fighting_data/csv_trajectories/FishTank20200217_160052.csv
+calibration_folder_path: ./20200120_calibration/
+parStep: 1000
+numProcessors: 38
+mean_reg_skel_thresh: 10.0
+head_pec_thresh: 1.2
+pec_tail_thresh: 2.5
+idtracks_to_sleap_thresh: 12.5
+interp_polyOrd: 1
+interp_limit: 5
+savgol_win: 9
+savgol_ord: 2
+dt: 0.01
+
+
+
+
+
+
+
+
+Launching cross-camera registration ...
+
+
+1574.2131745815277
+Cross-camera registration completed
+
+
+
+Apply the registration threshold ...
+finished:  1577.0150876045227 s
+
+
+
+Apply the skeleton 3D size threshold ...
+finished:  1591.651795387268 s
+
+
+
+Hungarian matching of 3D skeletons with idTracker.ai identities ...
+finished:  1618.5259237289429 s
+
+
+
+Matching individual 3D skeletons with idTracker.ai identities ...
+finished:  1619.8906061649323 s
+
+
+
+Track segments in time with 3D skeletons but without idtracker.ai matches ...
+finished:  1630.1101365089417 s
+
+
+
+
+ post-procssing ...
+(601226, 2, 3, 3)
+post-proccessing finished
+
+saving ... 
+saved
+
+
+Finished post processing and saving h5 file
+
+
+saving csv file ...
+
+Finished!
+
+
+
+------------
+Completely finished!
+total time: t =   27.266843330860137  mins
+
+------- Tracking FishTank20200218_153008 -------
+
+
+
+-- inputs --
+input_path: /media/liam/hd1/fighting_data/FishTank20200218_153008/FishTank20200218_153008_sLEAP_and_idtracks.h5
+expName: FishTank20200218_153008
+output_h5_path: /media/liam/hd1/fighting_data/tracking_results/FishTank20200218_153008_tracking_results.h5
+output_csv_path: /media/liam/hd1/fighting_data/csv_trajectories/FishTank20200218_153008.csv
+calibration_folder_path: ./20200120_calibration/
+parStep: 1000
+numProcessors: 38
+mean_reg_skel_thresh: 10.0
+head_pec_thresh: 1.2
+pec_tail_thresh: 2.5
+idtracks_to_sleap_thresh: 12.5
+interp_polyOrd: 1
+interp_limit: 5
+savgol_win: 9
+savgol_ord: 2
+dt: 0.01
+
+
+
+
+
+
+
+
+Launching cross-camera registration ...
+
+
+1405.1342527866364
+Cross-camera registration completed
+
+
+
+Apply the registration threshold ...
+finished:  1407.8725588321686 s
+
+
+
+Apply the skeleton 3D size threshold ...
+finished:  1422.569862127304 s
+
+
+
+Hungarian matching of 3D skeletons with idTracker.ai identities ...
+finished:  1444.9642906188965 s
+
+
+
+Matching individual 3D skeletons with idTracker.ai identities ...
+finished:  1447.4776117801666 s
+
+
+
+Track segments in time with 3D skeletons but without idtracker.ai matches ...
+finished:  1473.7803659439087 s
+
+
+
+
+ post-procssing ...
+(537880, 2, 3, 3)
+post-proccessing finished
+
+saving ... 
+saved
+
+
+Finished post processing and saving h5 file
+
+
+saving csv file ...
+
+Finished!
+
+
+
+------------
+Completely finished!
+total time: t =   24.645294499397277  mins
+
+------- Tracking FishTank20200316_163320 -------
+
+
+
+-- inputs --
+input_path: /media/liam/hd1/fighting_data/FishTank20200316_163320/FishTank20200316_163320_sLEAP_and_idtracks.h5
+expName: FishTank20200316_163320
+output_h5_path: /media/liam/hd1/fighting_data/tracking_results/FishTank20200316_163320_tracking_results.h5
+output_csv_path: /media/liam/hd1/fighting_data/csv_trajectories/FishTank20200316_163320.csv
+calibration_folder_path: ./20200120_calibration/
+parStep: 1000
+numProcessors: 38
+mean_reg_skel_thresh: 10.0
+head_pec_thresh: 1.2
+pec_tail_thresh: 2.5
+idtracks_to_sleap_thresh: 12.5
+interp_polyOrd: 1
+interp_limit: 5
+savgol_win: 9
+savgol_ord: 2
+dt: 0.01
+
+
+
+
+
+
+
+
+Launching cross-camera registration ...
+
+
+2690.7403123378754
+Cross-camera registration completed
+
+
+
+Apply the registration threshold ...
+finished:  2694.9546704292297 s
+
+
+
+Apply the skeleton 3D size threshold ...
+finished:  2717.819322824478 s
+
+
+
+Hungarian matching of 3D skeletons with idTracker.ai identities ...
+finished:  2759.714067697525 s
+
+
+
+Matching individual 3D skeletons with idTracker.ai identities ...
+finished:  2761.6785655021667 s
+
+
+
+Track segments in time with 3D skeletons but without idtracker.ai matches ...
+finished:  2772.762511253357 s
+
+
+
+
+ post-procssing ...
+(1032353, 2, 3, 3)
+post-proccessing finished
+
+saving ... 
+saved
+
+
+Finished post processing and saving h5 file
+
+
+saving csv file ...
+
+Finished!
+
+
+
+------------
+Completely finished!
+total time: t =   46.37393324772517  mins
+
+------- Tracking FishTank20200327_154737 -------
+
+
+
+-- inputs --
+input_path: /media/liam/hd1/fighting_data/FishTank20200327_154737/FishTank20200327_154737_sLEAP_and_idtracks.h5
+expName: FishTank20200327_154737
+output_h5_path: /media/liam/hd1/fighting_data/tracking_results/FishTank20200327_154737_tracking_results.h5
+output_csv_path: /media/liam/hd1/fighting_data/csv_trajectories/FishTank20200327_154737.csv
+calibration_folder_path: ./20200325_calibration/
+parStep: 1000
+numProcessors: 38
+mean_reg_skel_thresh: 10.0
+head_pec_thresh: 1.2
+pec_tail_thresh: 2.5
+idtracks_to_sleap_thresh: 12.5
+interp_polyOrd: 1
+interp_limit: 5
+savgol_win: 9
+savgol_ord: 2
+dt: 0.01
+
+
+
+
+
+
+
+
+Launching cross-camera registration ...
+
+
+1533.6568357944489
+Cross-camera registration completed
+
+
+
+Apply the registration threshold ...
+finished:  1537.0824282169342 s
+
+
+
+Apply the skeleton 3D size threshold ...
+finished:  1553.4434578418732 s
+
+
+
+Hungarian matching of 3D skeletons with idTracker.ai identities ...
+finished:  1580.0038492679596 s
+
+
+
+Matching individual 3D skeletons with idTracker.ai identities ...
+finished:  1581.440143108368 s
+
+
+
+Track segments in time with 3D skeletons but without idtracker.ai matches ...
+finished:  1601.7787764072418 s
+
+
+
+
+ post-procssing ...
+(561010, 2, 3, 3)
+post-proccessing finished
+
+saving ... 
+saved
+
+
+Finished post processing and saving h5 file
+
+
+saving csv file ...
+
+Finished!
+
+
+
+------------
+Completely finished!
+total time: t =   26.784650627772013  mins
+
+------- Tracking FishTank20200330_161100 -------
+
+
+
+-- inputs --
+input_path: /media/liam/hd1/fighting_data/FishTank20200330_161100/FishTank20200330_161100_sLEAP_and_idtracks.h5
+expName: FishTank20200330_161100
+output_h5_path: /media/liam/hd1/fighting_data/tracking_results/FishTank20200330_161100_tracking_results.h5
+output_csv_path: /media/liam/hd1/fighting_data/csv_trajectories/FishTank20200330_161100.csv
+calibration_folder_path: ./20200325_calibration/
+parStep: 1000
+numProcessors: 38
+mean_reg_skel_thresh: 10.0
+head_pec_thresh: 1.2
+pec_tail_thresh: 2.5
+idtracks_to_sleap_thresh: 12.5
+interp_polyOrd: 1
+interp_limit: 5
+savgol_win: 9
+savgol_ord: 2
+dt: 0.01
+
+
+
+
+
+
+
+
+Launching cross-camera registration ...
+
+
+1535.1958093643188
+Cross-camera registration completed
+
+
+
+Apply the registration threshold ...
+finished:  1536.4447083473206 s
+
+
+
+Apply the skeleton 3D size threshold ...
+finished:  1551.3309586048126 s
+
+
+
+Hungarian matching of 3D skeletons with idTracker.ai identities ...
+finished:  1577.2252361774445 s
+
+
+
+Matching individual 3D skeletons with idTracker.ai identities ...
+finished:  1578.8131322860718 s
+
+
+
+Track segments in time with 3D skeletons but without idtracker.ai matches ...
+finished:  1602.7942762374878 s
+
+
+
+
+ post-procssing ...
+(556428, 2, 3, 3)
+post-proccessing finished
+
+saving ... 
+saved
+
+
+Finished post processing and saving h5 file
+
+
+saving csv file ...
+
+Finished!
+
+
+
+------------
+Completely finished!
+total time: t =   26.793942499160767  mins
+
+------- Tracking FishTank20200331_162136 -------
+
+
+
+-- inputs --
+input_path: /media/liam/hd1/fighting_data/FishTank20200331_162136/FishTank20200331_162136_sLEAP_and_idtracks.h5
+expName: FishTank20200331_162136
+output_h5_path: /media/liam/hd1/fighting_data/tracking_results/FishTank20200331_162136_tracking_results.h5
+output_csv_path: /media/liam/hd1/fighting_data/csv_trajectories/FishTank20200331_162136.csv
+calibration_folder_path: ./20200325_calibration/
+parStep: 1000
+numProcessors: 38
+mean_reg_skel_thresh: 10.0
+head_pec_thresh: 1.2
+pec_tail_thresh: 2.5
+idtracks_to_sleap_thresh: 12.5
+interp_polyOrd: 1
+interp_limit: 5
+savgol_win: 9
+savgol_ord: 2
+dt: 0.01
+
+
+
+
+
+
+
+
+Launching cross-camera registration ...
+
+
+1986.4902973175049
+Cross-camera registration completed
+
+
+
+Apply the registration threshold ...
+finished:  1990.1333928108215 s
+
+
+
+Apply the skeleton 3D size threshold ...
+finished:  2011.8952014446259 s
+
+
+
+Hungarian matching of 3D skeletons with idTracker.ai identities ...
+finished:  2045.0410907268524 s
+
+
+
+Matching individual 3D skeletons with idTracker.ai identities ...
+finished:  2049.370317220688 s
+
+
+
+Track segments in time with 3D skeletons but without idtracker.ai matches ...
+finished:  2093.003749847412 s
+
+
+
+
+ post-procssing ...
+(746434, 2, 3, 3)
+post-proccessing finished
+
+saving ... 
+saved
+
+
+Finished post processing and saving h5 file
+
+
+saving csv file ...
+
+Finished!
+
+
+
+------------
+Completely finished!
+total time: t =   35.00316799084346  mins
+
+------- Tracking FishTank20200520_152810 -------
+
+
+
+-- inputs --
+input_path: /media/liam/hd1/fighting_data/FishTank20200520_152810/FishTank20200520_152810_sLEAP_and_idtracks.h5
+expName: FishTank20200520_152810
+output_h5_path: /media/liam/hd1/fighting_data/tracking_results/FishTank20200520_152810_tracking_results.h5
+output_csv_path: /media/liam/hd1/fighting_data/csv_trajectories/FishTank20200520_152810.csv
+calibration_folder_path: ./20200325_calibration/
+parStep: 1000
+numProcessors: 38
+mean_reg_skel_thresh: 10.0
+head_pec_thresh: 1.2
+pec_tail_thresh: 2.5
+idtracks_to_sleap_thresh: 12.5
+interp_polyOrd: 1
+interp_limit: 5
+savgol_win: 9
+savgol_ord: 2
+dt: 0.01
+
+
+
+
+
+
+
+
+Launching cross-camera registration ...
+
+
+3265.4062457084656
+Cross-camera registration completed
+
+
+
+Apply the registration threshold ...
+finished:  3270.9374463558197 s
+
+
+
+Apply the skeleton 3D size threshold ...
+finished:  3299.135543346405 s
+
+
+
+Hungarian matching of 3D skeletons with idTracker.ai identities ...
+finished:  3351.9410502910614 s
+
+
+
+Matching individual 3D skeletons with idTracker.ai identities ...
+finished:  3356.4486134052277 s
+
+
+
+Track segments in time with 3D skeletons but without idtracker.ai matches ...
+finished:  3379.9840471744537 s
+
+
+
+
+ post-procssing ...
+(1248577, 2, 3, 3)
+post-proccessing finished
+
+saving ... 
+saved
+
+
+Finished post processing and saving h5 file
+
+
+saving csv file ...
+
+Finished!
+
+
+
+------------
+Completely finished!
+total time: t =   56.53185337781906  mins
+
+------- Tracking FishTank20200521_154541 -------
+
+
+
+-- inputs --
+input_path: /media/liam/hd1/fighting_data/FishTank20200521_154541/FishTank20200521_154541_sLEAP_and_idtracks.h5
+expName: FishTank20200521_154541
+output_h5_path: /media/liam/hd1/fighting_data/tracking_results/FishTank20200521_154541_tracking_results.h5
+output_csv_path: /media/liam/hd1/fighting_data/csv_trajectories/FishTank20200521_154541.csv
+calibration_folder_path: ./20200325_calibration/
+parStep: 1000
+numProcessors: 38
+mean_reg_skel_thresh: 10.0
+head_pec_thresh: 1.2
+pec_tail_thresh: 2.5
+idtracks_to_sleap_thresh: 12.5
+interp_polyOrd: 1
+interp_limit: 5
+savgol_win: 9
+savgol_ord: 2
+dt: 0.01
+
+
+
+
+
+
+
+
+Launching cross-camera registration ...
+
+
+1691.181688785553
+Cross-camera registration completed
+
+
+
+Apply the registration threshold ...
+finished:  1694.66836643219 s
+
+
+
+Apply the skeleton 3D size threshold ...
+finished:  1710.1581888198853 s
+
+
+
+Hungarian matching of 3D skeletons with idTracker.ai identities ...
+finished:  1736.838233947754 s
+
+
+
+Matching individual 3D skeletons with idTracker.ai identities ...
+finished:  1737.9904601573944 s
+
+
+
+Track segments in time with 3D skeletons but without idtracker.ai matches ...
+finished:  1753.6992032527924 s
+
+
+
+
+ post-procssing ...
+(596607, 2, 3, 3)
+post-proccessing finished
+
+saving ... 
+saved
+
+
+Finished post processing and saving h5 file
+
+
+saving csv file ...
+
+Finished!
+
+
+
+------------
+Completely finished!
+total time: t =   29.29831226269404  mins
+
+------- Tracking FishTank20200525_161602 -------
+
+
+
+-- inputs --
+input_path: /media/liam/hd1/fighting_data/FishTank20200525_161602/FishTank20200525_161602_sLEAP_and_idtracks.h5
+expName: FishTank20200525_161602
+output_h5_path: /media/liam/hd1/fighting_data/tracking_results/FishTank20200525_161602_tracking_results.h5
+output_csv_path: /media/liam/hd1/fighting_data/csv_trajectories/FishTank20200525_161602.csv
+calibration_folder_path: ./20200325_calibration/
+parStep: 1000
+numProcessors: 38
+mean_reg_skel_thresh: 10.0
+head_pec_thresh: 1.2
+pec_tail_thresh: 2.5
+idtracks_to_sleap_thresh: 12.5
+interp_polyOrd: 1
+interp_limit: 5
+savgol_win: 9
+savgol_ord: 2
+dt: 0.01
+
+
+
+
+
+
+
+
+Launching cross-camera registration ...
+
+
+1508.379503250122
+Cross-camera registration completed
+
+
+
+Apply the registration threshold ...
+finished:  1510.8224799633026 s
+
+
+
+Apply the skeleton 3D size threshold ...
+finished:  1526.8471477031708 s
+
+
+
+Hungarian matching of 3D skeletons with idTracker.ai identities ...
+finished:  1548.852219581604 s
+
+
+
+Matching individual 3D skeletons with idTracker.ai identities ...
+finished:  1553.1202623844147 s
+
+
+
+Track segments in time with 3D skeletons but without idtracker.ai matches ...
+finished:  1600.2914156913757 s
+
+
+
+
+ post-procssing ...
+(588962, 2, 3, 3)
+post-proccessing finished
+
+saving ... 
+saved
+
+
+Finished post processing and saving h5 file
+
+
+saving csv file ...
+
+Finished!
+
+
+
+------------
+Completely finished!
+total time: t =   26.74569906791051  mins
+
+------- Tracking FishTank20200526_160100 -------
+
+
+
+-- inputs --
+input_path: /media/liam/hd1/fighting_data/FishTank20200526_160100/FishTank20200526_160100_sLEAP_and_idtracks.h5
+expName: FishTank20200526_160100
+output_h5_path: /media/liam/hd1/fighting_data/tracking_results/FishTank20200526_160100_tracking_results.h5
+output_csv_path: /media/liam/hd1/fighting_data/csv_trajectories/FishTank20200526_160100.csv
+calibration_folder_path: ./20200325_calibration/
+parStep: 1000
+numProcessors: 38
+mean_reg_skel_thresh: 10.0
+head_pec_thresh: 1.2
+pec_tail_thresh: 2.5
+idtracks_to_sleap_thresh: 12.5
+interp_polyOrd: 1
+interp_limit: 5
+savgol_win: 9
+savgol_ord: 2
+dt: 0.01
+
+
+
+
+
+
+
+
+Launching cross-camera registration ...
+
+
+1802.6265292167664
+Cross-camera registration completed
+
+
+
+Apply the registration threshold ...
+finished:  1804.9038112163544 s
+
+
+
+Apply the skeleton 3D size threshold ...
+finished:  1822.5239646434784 s
+
+
+
+Hungarian matching of 3D skeletons with idTracker.ai identities ...
+finished:  1849.7351727485657 s
+
+
+
+Matching individual 3D skeletons with idTracker.ai identities ...
+finished:  1853.8898811340332 s
+
+
+
+Track segments in time with 3D skeletons but without idtracker.ai matches ...
+finished:  1890.4894013404846 s
+
+
+
+
+ post-procssing ...
+(689100, 2, 3, 3)
+post-proccessing finished
+
+saving ... 
+saved
+
+
+Finished post processing and saving h5 file
+
+
+saving csv file ...
+
+Finished!
+
+
+
+------------
+Completely finished!
+total time: t =   31.61163797775904  mins
+
+------- Tracking FishTank20200527_152401 -------
+
+
+
+-- inputs --
+input_path: /media/liam/hd1/fighting_data/FishTank20200527_152401/FishTank20200527_152401_sLEAP_and_idtracks.h5
+expName: FishTank20200527_152401
+output_h5_path: /media/liam/hd1/fighting_data/tracking_results/FishTank20200527_152401_tracking_results.h5
+output_csv_path: /media/liam/hd1/fighting_data/csv_trajectories/FishTank20200527_152401.csv
+calibration_folder_path: ./20200325_calibration/
+parStep: 1000
+numProcessors: 38
+mean_reg_skel_thresh: 10.0
+head_pec_thresh: 1.2
+pec_tail_thresh: 2.5
+idtracks_to_sleap_thresh: 12.5
+interp_polyOrd: 1
+interp_limit: 5
+savgol_win: 9
+savgol_ord: 2
+dt: 0.01
+
+
+
+
+
+
+
+
+Launching cross-camera registration ...
+
+
+1360.739352464676
+Cross-camera registration completed
+
+
+
+Apply the registration threshold ...
+finished:  1361.4863905906677 s
+
+
+
+Apply the skeleton 3D size threshold ...
+finished:  1374.6885459423065 s
+
+
+
+Hungarian matching of 3D skeletons with idTracker.ai identities ...
+finished:  1398.1737666130066 s
+
+
+
+Matching individual 3D skeletons with idTracker.ai identities ...
+finished:  1399.0343594551086 s
+
+
+
+Track segments in time with 3D skeletons but without idtracker.ai matches ...
+finished:  1404.6273341178894 s
+
+
+
+
+ post-procssing ...
+(497635, 2, 3, 3)
+post-proccessing finished
+
+saving ... 
+saved
+
+
+Finished post processing and saving h5 file
+
+
+saving csv file ...
+
+Finished!
+
+
+
+------------
+Completely finished!
+total time: t =   23.467996676762898  mins
+
+------- Tracking FishTank20200824_151740 -------
+
+
+
+-- inputs --
+input_path: /media/liam/hd1/fighting_data/FishTank20200824_151740/FishTank20200824_151740_sLEAP_and_idtracks.h5
+expName: FishTank20200824_151740
+output_h5_path: /media/liam/hd1/fighting_data/tracking_results/FishTank20200824_151740_tracking_results.h5
+output_csv_path: /media/liam/hd1/fighting_data/csv_trajectories/FishTank20200824_151740.csv
+calibration_folder_path: ./20200325_calibration/
+parStep: 1000
+numProcessors: 38
+mean_reg_skel_thresh: 10.0
+head_pec_thresh: 1.2
+pec_tail_thresh: 2.5
+idtracks_to_sleap_thresh: 12.5
+interp_polyOrd: 1
+interp_limit: 5
+savgol_win: 9
+savgol_ord: 2
+dt: 0.01
+
+
+
+
+
+
+
+
+Launching cross-camera registration ...
+
+
+4509.828057765961
+Cross-camera registration completed
+
+
+
+Apply the registration threshold ...
+finished:  4515.661694526672 s
+
+
+
+Apply the skeleton 3D size threshold ...
+finished:  4554.84761595726 s
+
+
+
+Hungarian matching of 3D skeletons with idTracker.ai identities ...
+finished:  4617.459576845169 s
+
+
+
+Matching individual 3D skeletons with idTracker.ai identities ...
+finished:  4623.510875225067 s
+
+
+
+Track segments in time with 3D skeletons but without idtracker.ai matches ...
+finished:  4676.25897359848 s
+
+
+
+
+ post-procssing ...
+(1695643, 2, 3, 3)
+post-proccessing finished
+
+saving ... 
+saved
+
+
+Finished post processing and saving h5 file
+
+
+saving csv file ...
+
+Finished!
+
+
+
+------------
+Completely finished!
+total time: t =   78.24520057439804  mins
+
+------- Tracking FishTank20200828_155504 -------
+
+
+
+-- inputs --
+input_path: /media/liam/hd1/fighting_data/FishTank20200828_155504/FishTank20200828_155504_sLEAP_and_idtracks.h5
+expName: FishTank20200828_155504
+output_h5_path: /media/liam/hd1/fighting_data/tracking_results/FishTank20200828_155504_tracking_results.h5
+output_csv_path: /media/liam/hd1/fighting_data/csv_trajectories/FishTank20200828_155504.csv
+calibration_folder_path: ./20200325_calibration/
+parStep: 1000
+numProcessors: 38
+mean_reg_skel_thresh: 10.0
+head_pec_thresh: 1.2
+pec_tail_thresh: 2.5
+idtracks_to_sleap_thresh: 12.5
+interp_polyOrd: 1
+interp_limit: 5
+savgol_win: 9
+savgol_ord: 2
+dt: 0.01
+
+
+
+
+
+
+
+
+Launching cross-camera registration ...
+
+
+2315.192032814026
+Cross-camera registration completed
+
+
+
+Apply the registration threshold ...
+finished:  2316.314348936081 s
+
+
+
+Apply the skeleton 3D size threshold ...
+finished:  2334.6250150203705 s
+
+
+
+Hungarian matching of 3D skeletons with idTracker.ai identities ...
+finished:  2364.8047347068787 s
+
+
+
+Matching individual 3D skeletons with idTracker.ai identities ...
+finished:  2367.0307676792145 s
+
+
+
+Track segments in time with 3D skeletons but without idtracker.ai matches ...
+finished:  2385.589021921158 s
+
+
+
+
+ post-procssing ...
+(798382, 2, 3, 3)
+post-proccessing finished
+
+saving ... 
+saved
+
+
+Finished post processing and saving h5 file
+
+
+saving csv file ...
+
+Finished!
+
+
+
+------------
+Completely finished!
+total time: t =   39.85084135135015  mins
+
+------- Tracking FishTank20200902_160124 -------
+
+
+
+-- inputs --
+input_path: /media/liam/hd1/fighting_data/FishTank20200902_160124/FishTank20200902_160124_sLEAP_and_idtracks.h5
+expName: FishTank20200902_160124
+output_h5_path: /media/liam/hd1/fighting_data/tracking_results/FishTank20200902_160124_tracking_results.h5
+output_csv_path: /media/liam/hd1/fighting_data/csv_trajectories/FishTank20200902_160124.csv
+calibration_folder_path: ./20200325_calibration/
+parStep: 1000
+numProcessors: 38
+mean_reg_skel_thresh: 10.0
+head_pec_thresh: 1.2
+pec_tail_thresh: 2.5
+idtracks_to_sleap_thresh: 12.5
+interp_polyOrd: 1
+interp_limit: 5
+savgol_win: 9
+savgol_ord: 2
+dt: 0.01
+
+
+
+
+
+
+
+
+Launching cross-camera registration ...
+
+
+1896.9959981441498
+Cross-camera registration completed
+
+
+
+Apply the registration threshold ...
+finished:  1898.2621812820435 s
+
+
+
+Apply the skeleton 3D size threshold ...
+finished:  1915.8291330337524 s
+
+
+
+Hungarian matching of 3D skeletons with idTracker.ai identities ...
+finished:  1941.5078530311584 s
+
+
+
+Matching individual 3D skeletons with idTracker.ai identities ...
+finished:  1944.6805386543274 s
+
+
+
+Track segments in time with 3D skeletons but without idtracker.ai matches ...
+finished:  1973.8758115768433 s
+
+
+
+
+ post-procssing ...
+(717814, 2, 3, 3)
+post-proccessing finished
+
+saving ... 
+saved
+
+
+Finished post processing and saving h5 file
+
+
+saving csv file ...
+
+Finished!
+
+
+
+------------
+Completely finished!
+total time: t =   32.99189975261688  mins
+
+------- Tracking FishTank20200903_160946 -------
+
+
+
+-- inputs --
+input_path: /media/liam/hd1/fighting_data/FishTank20200903_160946/FishTank20200903_160946_sLEAP_and_idtracks.h5
+expName: FishTank20200903_160946
+output_h5_path: /media/liam/hd1/fighting_data/tracking_results/FishTank20200903_160946_tracking_results.h5
+output_csv_path: /media/liam/hd1/fighting_data/csv_trajectories/FishTank20200903_160946.csv
+calibration_folder_path: ./20200325_calibration/
+parStep: 1000
+numProcessors: 38
+mean_reg_skel_thresh: 10.0
+head_pec_thresh: 1.2
+pec_tail_thresh: 2.5
+idtracks_to_sleap_thresh: 12.5
+interp_polyOrd: 1
+interp_limit: 5
+savgol_win: 9
+savgol_ord: 2
+dt: 0.01
+
+
+
+
+
+
+
+
+Launching cross-camera registration ...
+
+
+1953.162071943283
+Cross-camera registration completed
+
+
+
+Apply the registration threshold ...
+finished:  1954.5171811580658 s
+
+
+
+Apply the skeleton 3D size threshold ...
+finished:  1975.433087348938 s
+
+
+
+Hungarian matching of 3D skeletons with idTracker.ai identities ...
+finished:  2004.7244765758514 s
+
+
+
+Matching individual 3D skeletons with idTracker.ai identities ...
+finished:  2010.4709129333496 s
+
+
+
+Track segments in time with 3D skeletons but without idtracker.ai matches ...
+finished:  2053.3957912921906 s
+
+
+
+
+ post-procssing ...
+(726000, 2, 3, 3)
+post-proccessing finished
+
+saving ... 
+saved
+
+
+Finished post processing and saving h5 file
+
+
+saving csv file ...
+
+Finished!
+
+
+
+------------
+Completely finished!
+total time: t =   34.330717555681865  mins
