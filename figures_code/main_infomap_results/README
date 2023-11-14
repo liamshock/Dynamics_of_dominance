@@ -1,0 +1,9 @@
+This folder contains the code that computed the main infomap results used in the paper.
+i.e. the infomap communities we used for fight maneuvers.
+
+The input for this computation can be found in the paper release data at
+tmat_and_infomap_generation_data/tetW_tetL_dpp_master_tseries.h5
+
+The output for this computation can be found in the paper release data at
+infomap_data/transmat_and_infomap.h5
+
