@@ -2,7 +2,7 @@
 This repo contains the code associated with the publication titled "Dynamics of dominance: maneuvers, contests, and assessment in the posture-scale movements of interacting zebrafish"
 
 ## Associated data
-Available for download here: 10.5281/zenodo.10103746
+Available for download here: https://zenodo.org/records/10103747
 
 ## tracking_code
 This folder contains all the code needed for tracking the N=22 experiments.
