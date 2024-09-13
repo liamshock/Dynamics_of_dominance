@@ -1,5 +1,5 @@
 # Dynamics of dominance
-This repo contains the code associated with the publication titled "Dynamics of dominance: maneuvers, contests, and assessment in the posture-scale movements of interacting zebrafish"
+This repo contains the code associated with the publication titled "Dynamics of dominance in interacting zebrafish"
 
 ## Associated data
 Available for download here: https://zenodo.org/records/10103747
